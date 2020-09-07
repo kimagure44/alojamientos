@@ -1,0 +1,2 @@
+# alojamientos
+Probando alojamientos
